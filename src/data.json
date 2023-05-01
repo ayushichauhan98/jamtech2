@@ -1,0 +1,52 @@
+{
+    "data":[
+        {
+        "id":1,
+        "name":"Ayushi Chauchan",
+        "email":"ayu123@gmail.com",
+        "phone":7007436861,
+        "address":"Lucknow",
+        "bio":"Software developer",
+        "pic":"img/pic.jpg",
+        "day":"monday",
+        "date":"01-05-2023",
+        "status":"Present"
+        },
+        {
+        "id":2,
+        "name":"Prem Sagar",
+        "email":"prem123@gmail.com",
+        "phone":7007436861,
+        "address":"Lucknow",
+        "bio":"Software developer",
+        "pic":"img/pic2.jpg",
+        "day":"tuesday",
+        "date":"01-05-2023",
+        "status":"Present"
+        },
+        {
+        "id":3,
+        "name":"abhishek",
+        "email":"abhi3@gmail.com",
+        "phone":7007436861,
+        "address":"Lucknow",
+        "bio":"Software developer",
+        "pic":"img/pic4.jpg",
+        "day":"monday",
+        "date":"01-05-2023",
+        "status":"absent"
+        },
+        {
+        "id":4,
+        "name":"mohit",
+        "email":"mohit123@gmail.com",
+        "phone":7007436861,
+        "address":"Lucknow",
+        "bio":"Software developer",
+        "pic":"img/pic3.jpg",
+        "day":"monday",
+        "date":"01-05-2023",
+        "status":"absent"
+        }
+    ]
+}
